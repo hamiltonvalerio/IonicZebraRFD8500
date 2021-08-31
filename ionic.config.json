@@ -1,5 +1,7 @@
 {
   "name": "IonicZebraRFD8500",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
